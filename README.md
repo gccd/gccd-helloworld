@@ -3,8 +3,8 @@ gccd-helloworld
 
 my first github pro,as a test project
 
-# 我的第一个GitHub项目
-hel
+# 我的第一个GitHub项目[hello][1]
+
 这是项目 [helloworld](https://github.com/gotgithub/helloworld) ，
 欢迎访问。
 
@@ -25,3 +25,4 @@ hel
 操作示例：
 
     $ git clone git://github.com/gotgithub/helloworld.git
+[1]: http://example.com/  (Optional Title Here)
